@@ -1,0 +1,33 @@
+/***********************************************************Class************************************************************/
+.links-de-navegação{
+    background-color: #c5c5b2;
+    padding: 15px;
+    text-align: center;
+}
+.titulos{
+    text-decoration: underline;
+    text-align: center;
+    font: arial;
+    font-weight: bold;
+    color: #828271;
+}
+.campos_de_informações{
+    background-color: beige;
+}
+.corpo_do_site{
+    text-align: center;
+}
+.formatação_do_logo{
+    width: 100px;
+    margin-top: 5px;
+}
+.contatos{
+    font-size: 30px;
+}
+/************************************************************ID's*************************************************************/
+#direitos{ /*Camapanha publicitária*/
+    text-align: center;
+    font: italic;
+    font-weight: bold; /*Para fazer a formatação de fontes, deve-se sempre usar a tag FONT e em seguida do traço, por seu complemento 
+    que varia de acordo com o que deseja fazer*/
+}
